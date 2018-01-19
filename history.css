@@ -1,0 +1,27 @@
+#title {
+  color: white;
+  text-align: center;
+  text-decoration: underline;
+  text-decoration-color: white;
+}
+
+#subtitle {
+  color: black;
+  text-align: center;
+  text-decoration-color: white;
+  margin-left: 5%;
+  margin-right: 5%;
+}
+
+#margen {
+  margin-left: 5%;
+  margin-right: 5%;
+  border-style: double;
+  border-width: 1px:
+  border-color: white;
+  background-color:  	#F8F8FF;
+}
+
+.margin-left {
+  margin-left: 5%;
+}
