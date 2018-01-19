@@ -60,14 +60,14 @@ section {
 		left:-100%;
 		/*top:0px;*/
 		overflow:auto;
-		z-index:2
+		z-index:1000;
 	}
 
 	.menu_bar {
 		display:block;
 		width:100%;
 		background:#ccc;
-		z-index:2
+		z-index:2;
 	}
 
 	.menu_bar .bt-menu {
@@ -82,7 +82,7 @@ section {
 		font-weight:bold;
 		color:#fff;
 		text-decoration:none;
-		z-index:2
+
 	}
 
 	.menu_bar span {
@@ -100,7 +100,7 @@ section {
 }
 
 
- 
+
 .main {
 	width:90%;
 	max-width:1000px;
@@ -108,19 +108,19 @@ section {
 		  z-index:1
 
 }
- 
+
 .slides {
 	width:100%;
 		  z-index:1
 
 }
- 
+
 .slides img {
 	width:100%;
 	z-index:1
 
 }
- 
+
 .slidesjs-pagination {
 	background:#232323;
 	list-style:none;
@@ -129,13 +129,13 @@ section {
 	z-index:1
 
 }
- 
+
 .slidesjs-pagination li {
 	float:left;
 		z-index:1
 
 }
- 
+
 .slidesjs-pagination li a {
 	display:block;
 	padding:10px 20px;
@@ -144,19 +144,19 @@ section {
 		z-index:1
 
 }
- 
+
 .slidesjs-pagination li a:hover {
 	background:#000;
 		z-index:1
 
 }
- 
+
 .slides .active {
 	background:#000;
 	  z-index:1
 
 }
- 
+
 .slidesjs-navigation{
 	background:#000;
 	color:#fff;
@@ -167,4 +167,3 @@ section {
 	  z-index:1
 
 }
-
