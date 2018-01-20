@@ -4,7 +4,7 @@
 }
 
 body {
-background-image: url("https://comocantorodado.files.wordpress.com/2015/04/acera-luz-noche-189339.jpg");
+background-image: url("Fondo.png");
 	background-repeat: no-repeat;
     background-attachment: fixed;
 	background-size: 100% 120%;
@@ -17,6 +17,7 @@ header {
 header nav {
 	width:100%;
 	background:	#556B2F;
+	box-shadow: 0 2px 5px 0 rgba(0,0,0,0.16), 0 2px 10px 0 rgba(0,0,0,0.12);
 }
 
 .menu_bar {
@@ -70,6 +71,8 @@ section {
 		z-index:2;
 	}
 
+
+
 	.menu_bar .bt-menu {
 		display:block;
 		padding:20px;
@@ -82,7 +85,6 @@ section {
 		font-weight:bold;
 		color:#fff;
 		text-decoration:none;
-
 	}
 
 	.menu_bar span {
@@ -162,8 +164,17 @@ section {
 	color:#fff;
 	text-decoration:none;
 	display:inline-block;
-	padding:1% 2%;
+	padding:10px 20px;
 	float:right;
 	  z-index:1
 
+}
+
+.footer {
+   left: 0;
+   bottom: 0;
+   width: 100%;
+   background-color: red;
+   color: white;
+   text-align: center;
 }
