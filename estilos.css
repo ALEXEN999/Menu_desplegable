@@ -170,11 +170,13 @@ section {
 
 }
 
-.footer {
-   left: 0;
-   bottom: 0;
-   width: 100%;
-   background-color: red;
-   color: white;
-   text-align: center;
+#coments {
+	margin-left: 5%;
+  margin-right: 5%;
+  padding-left: 1%;
+  padding-right: 1%;
+  border-style: double;
+  border-width: 1px:
+  border-color: white;
+  background-color:  	#F8F8FF;
 }
