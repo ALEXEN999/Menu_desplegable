@@ -180,3 +180,42 @@ section {
   border-color: white;
   background-color: #F8F8FF;
 }
+
+.content {
+	background-size: 100%;
+	background-repeat: no-repeat;
+	background-image: url("http://www.elcomercio.es/noticias/201504/08/media/2726421.JPG");
+	border-color: white;
+	margin-left: 5%;
+  margin-right: 5%;
+  padding-left: 1%;
+  padding-right: 1%;
+  border-style: double;
+  border-width: 1px:
+}
+
+.image-url {
+	margin-top: 1%;
+    width: 100%;
+    max-width: 30%;
+    height: auto;
+	box-shadow: 0 2px 5px 0 rgba(0,0,0,0.16), 0 2px 10px 0 rgba(0,0,0,0.12);
+
+	}
+	
+	.image-ur2 {
+    width: 100%;
+    max-width: 30%;
+    height: auto;
+	box-shadow: 0 2px 5px 0 rgba(0,0,0,0.16), 0 2px 10px 0 rgba(0,0,0,0.12);
+
+	}
+	
+.title-image {
+	margin-left: 44%;
+	color: white;
+}
+.enlace-caras {
+	margin-left: 35%;
+
+}
