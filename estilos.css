@@ -170,7 +170,7 @@ section {
 
 }
 
-#coments {
+.coments {
 	margin-left: 5%;
   margin-right: 5%;
   padding-left: 1%;
@@ -178,5 +178,5 @@ section {
   border-style: double;
   border-width: 1px:
   border-color: white;
-  background-color:  	#F8F8FF;
+  background-color: #F8F8FF;
 }
